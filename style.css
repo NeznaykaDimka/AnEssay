@@ -1,0 +1,34 @@
+body{
+text-align: center;
+margin: 10;
+font-family: Courier New;
+fonr-size: 16px;
+}
+input{
+display: inline-block;
+margin: 20px auto;
+border: 2px solid #eee;
+padding: 10px 20px;
+font-family: Verdana;
+font-size: 16px;
+font-style: italic;
+}
+
+h1 + p{
+background-color: #ccc;
+font-family: sans-serif;
+font-weight: bold;
+color: #4cbb17;
+}
+
+p{
+background-color: white;
+font-family: sans-serif;
+font-weight: bold;
+color: #4cbb17;
+}
+
+ul{
+text-align: center;
+point-align: center;
+}
